@@ -15,22 +15,17 @@ Use the Resume Agent Chrome extension or API with a real job description. The cl
 
 1. Read `resume.md`
 2. Follow `.cursor/skills/tailor-resume/SKILL.md`
-3. Write five files under `jobs/<company>/<role>/`:
-   - `gaps.md`
+3. Write three files under `jobs/<company>/<role>/`:
+   - `fit-report.md`
    - `tailored-resume.md`
-   - `suggested-additions.md`
-   - `cover-letter.md`
    - `change-summary.md`
 4. Open a PR via `autoCreatePR`
 
-The generated `gaps.md` should include:
+The generated `fit-report.md` should include:
 
-- **Bottom line** with `**Tier:**`, `**Verdict:**`, and a short narrative
-- **What lines up**
-- **What is missing or not proven**
-- **Helpful bridges** when useful
-- **Do not claim** items that must not be added to `tailored-resume.md`
-
-`suggested-additions.md` and cover-letter guidance are check-before-using outputs; the tailored resume still uses only facts from `resume.md`. Cover-letter copy should stay humble and conversational.
+- **Overall fit** with `**Tier:**`, `**Verdict:**`, and a short narrative
+- **Strong matches**
+- **Gaps**
+- **Do not add** items that must not be added to `tailored-resume.md`
 
 If the skill is not auto-detected, mention **`tailor-resume`** explicitly in the run prompt (the API does this by default).
