@@ -1,6 +1,6 @@
-# Alex Developer
+# Richard W Strawhacker
 
-San Francisco, CA · alex@example.com · github.com/alexdev · linkedin.com/in/alexdev
+127 Amber Acorn Ave Raleigh, NC 27603 · richard.strawhacker@gmail.com · https://www.linkedin.com/in/richard-strawhacker-004166151/
 
 ## Summary
 
