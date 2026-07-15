@@ -14,13 +14,24 @@ Client: Internal Revenue Service
 - Reviewed legacy requirements documentation and utilized new tools and AI to redesign and format legacy documentation and assist with creating clear linkages from requirements to individual lines of code for traceability.
 - Updated maintainability artifacts and guidelines to algin with the current code base to assist architects and developers understand key business terminology and how the Java code reflects key outputs that are generated to taxpayers and other end users.
 
-### Software Engineer — Startup Labs (2018–2021)
+### IT Consulting Manager — Deloitte Consulting LLP (April 2024–April 2025)
+Client: Internal Revenue Service
+- Led a small team of 4 and conducted detailed analysis on various components of the legacy business tax system built in Assembler Language Code (ALC) to document the key business logic and flow to support the development team building the modernized system.
+- Broke down 15,000+ lines of ALC code into more manageable chunks aligned on what functions the code was preforming, designed code flow diagrams in Microsoft Visio to visualize how the legacy code was flowing and linked together, and analyzed the ALC to extract business logic and requirements needed for the modernized system along with key technical implementation details that would inform future architecture decisions.
+- Collaborated with legacy programmers and the business to validate understanding of complex ALC code, confirm obsolete and dead code no longer needed, and ensure requirements are accurate with what is coded.
 
-- Delivered Stripe subscription and lifecycle webhook integrations for a self-serve SaaS product, covering plan changes, checkout handoff, and customer account updates.
-- Built Node.js services and React admin tools for support teams to inspect subscription state, retry account updates, and resolve onboarding issues.
-- Introduced GitHub Actions CI/CD and automated preview deployments, reducing release handoff time from hours to minutes for product engineers.
-- Added PostgreSQL data-quality checks and background jobs for provisioning workflows triggered by payment and signup events.
-- Wrote Jest and Playwright coverage for signup, subscription, and account-management paths that previously depended on manual QA.
+### IT Consulting Senior Consultant/Manager — Deloitte Consulting LLP (June 2016–April 2024)
+Client: Internal Revenue Service
+- Led a small team of 5 and conducted detailed analysis on the legacy individual tax system built in ALC to document the key business logic and flow to support the development team building the modernized system.
+- Broke down 10+ ALC code sections and over 25,000 lines of code into more manageable chunks aligned on what functions the code was preforming, designed code flow diagrams in Microsoft Visio to visualize how the legacy code was flowing and linked together, and analyzed the ALC to extract business logic and requirements needed for the modernized system along with key technical implementation details that would inform future architecture decisions.
+- Conducted root cause analysis on over 100+ defects identified when the modernized system and legacy system did not match on outputs to determine where the issue was occurring, why it was occurring (i.e. incorrectly coded, incorrect requirement), and suggested a solution to the development teams to resolve the defect correctly.
+- Conducted 3 training sessions to bring government and other contractors up to speed on logic harvesting processes, ALC, and key IRS processes to support logic harvesting and the Customer Account Data Engine 2 (CADE 2) program
+
+### IT Consulting Consultant/Senior Consultant — Deloitte Consulting LLP (June 2013–June 2016)
+Client: Internal Revenue Service
+- Supported the CFO by providing detailed analysis, guidance, and recommendations to help CADE 2 program determine a path forward in addressing a material weakness in their financial statements. Much of our work helped the IRS downgrade the material weakness to a significant deficiency in their financial statements.
+- Worked closely with CFO, Applications Development, Business Modernization Office, and Project Management Office to plan out projects and technical implementation details on specific areas that would help address the material weakness and modernize legacy components.
+- Worked on the Solution Assurance team supporting the PMO developing presentations and high level subject areas where additional criteria can be developed for the customer to accept the CADE 2 solution that replaces the legacy system.
 
 ## Skills
 
