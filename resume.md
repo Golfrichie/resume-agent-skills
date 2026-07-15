@@ -33,6 +33,24 @@ Client: Internal Revenue Service
 - Worked closely with CFO, Applications Development, Business Modernization Office, and Project Management Office to plan out projects and technical implementation details on specific areas that would help address the material weakness and modernize legacy components.
 - Worked on the Solution Assurance team supporting the PMO developing presentations and high level subject areas where additional criteria can be developed for the customer to accept the CADE 2 solution that replaces the legacy system.
 
+### Federal Strategy Consultant — Computer Sciences Corporation (October 2012–June 2013)
+Client: United States Agency for International Development
+- Provided support for users switching email services from Microsoft Outlook to Gmail and other Google services to perform their duties more efficiently in the US and around the world in developing countries with limited internet access.
+- Utilized Google Apps Migration for Microsoft Exchange software, Google Active Directory Sync, and Microsoft Exchange and Active Directory to migrate user mailboxes to Gmail seamlessly.
+- Provisioned BlackBerry, iPhone, and iPad devices to be utilized with Gmail and other Google services.
+
+### Federal Strategy Consultant — Computer Sciences Corporation (September 2011–September 2012)
+Client: United States Strategic Command
+- Created framework for the Command to move towards an IT Service Delivery model which impacts organizational structure and how the Command views IT.
+- Assisted with upgrade of BMC ITSM suite to 7.6 with business process improvement across many offices to align with ITIL standards, created detailed training plan, and led discussion on security classification guidance.
+- Presented cloud computing brown bag discussion to clients and contractors.
+
+### Federal Strategy Consultant — Computer Sciences Corporation (December 2009–September 2011)
+Client: Defense Threat Reduction Agency
+- Implemented an Oracle Business Intelligence solution for Human Capital data viewed by senior leadership and users across the Agency.
+- Trained and worked directly with the Human Capital office data providers and Agency end users via hands on demonstrations.
+- Provided support, analysis work, and directly interacted with customers for the Customer Relationship Management initiative and Lean Six Sigma program.
+
 ## Skills
 
 - **Languages & frameworks:** TypeScript, JavaScript, React, Node.js, Express, GraphQL
