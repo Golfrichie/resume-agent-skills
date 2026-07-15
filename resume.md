@@ -41,4 +41,4 @@ Client: Internal Revenue Service
 
 ## Education
 
-B.S. Computer Science — State University (2019)
+B.S. Information Sciences and Technology — The Pennsylvania State University (2009)
