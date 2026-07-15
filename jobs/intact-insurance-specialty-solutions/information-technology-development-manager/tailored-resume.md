@@ -1,0 +1,64 @@
+# Richard W Strawhacker
+
+127 Amber Acorn Ave Raleigh, NC 27603 · richard.strawhacker@gmail.com · https://www.linkedin.com/in/richard-strawhacker-004166151/
+
+## Summary
+
+IT leader with 15+ years of experience managing teams, leading cross-functional projects, and driving system modernization and implementation across complex enterprise environments. Proven business and technical liaison between senior leadership, operating teams, developers, and business units—translating business needs into technology solutions, process improvements, and clear project deliverables. Committed to coaching, development, and effective communication to deliver on project milestones and organizational goals.
+
+## Work Experience
+
+### IT Consulting Manager — Deloitte Consulting LLP (April 2025–Present)
+Client: Internal Revenue Service
+- Led a team of 3, providing direction and coaching while working closely with the Requirements client team on modernization efforts focused on the intake process for new requirements and integration with Jira and Confluence to automatically create stories, tasks, and technical requirements linked together.
+- Updated maintainability artifacts and guidelines to align with the current code base to help architects and developers understand key business terminology and how the Java code reflects key outputs generated to taxpayers and other end users.
+- Reviewed legacy requirements documentation and utilized new tools and AI to redesign and format legacy documentation and assist with creating clear linkages from requirements to individual lines of code for traceability.
+
+### IT Consulting Manager — Deloitte Consulting LLP (April 2024–April 2025)
+Client: Internal Revenue Service
+- Led a team of 4 and conducted detailed analysis on various components of the legacy business tax system built in Assembler Language Code (ALC) to document the key business logic and flow to support the development team building the modernized system.
+- Collaborated with legacy programmers and the business to validate understanding of complex ALC code, confirm obsolete and dead code no longer needed, and ensure requirements are accurate with what is coded.
+- Broke down 15,000+ lines of ALC code into manageable chunks aligned on what functions the code was performing, designed code flow diagrams in Microsoft Visio to visualize how the legacy code was flowing and linked together, and analyzed the ALC to extract business logic and requirements needed for the modernized system along with key technical implementation details that would inform future architecture decisions.
+
+### IT Consulting Senior Consultant/Manager — Deloitte Consulting LLP (June 2016–April 2024)
+Client: Internal Revenue Service
+- Led a team of 5 and conducted detailed analysis on the legacy individual tax system built in ALC to document the key business logic and flow to support the development team building the modernized system.
+- Conducted root cause analysis on over 100+ defects identified when the modernized system and legacy system did not match on outputs to determine where the issue was occurring, why it was occurring (i.e. incorrectly coded, incorrect requirement), and suggested a solution to the development teams to resolve the defect correctly.
+- Conducted 3 training sessions to bring government and other contractors up to speed on logic harvesting processes, ALC, and key IRS processes to support logic harvesting and the Customer Account Data Engine 2 (CADE 2) program.
+- Broke down 10+ ALC code sections and over 25,000 lines of code into manageable chunks aligned on what functions the code was performing, designed code flow diagrams in Microsoft Visio to visualize how the legacy code was flowing and linked together, and analyzed the ALC to extract business logic and requirements needed for the modernized system along with key technical implementation details that would inform future architecture decisions.
+
+### IT Consulting Consultant/Senior Consultant — Deloitte Consulting LLP (June 2013–June 2016)
+Client: Internal Revenue Service
+- Worked closely with CFO, Applications Development, Business Modernization Office, and Project Management Office to plan out projects and technical implementation details on specific areas that would help address the material weakness and modernize legacy components.
+- Supported the CFO by providing detailed analysis, guidance, and recommendations to help CADE 2 program determine a path forward in addressing a material weakness in their financial statements. Much of our work helped the IRS downgrade the material weakness to a significant deficiency in their financial statements.
+- Worked on the Solution Assurance team supporting the PMO developing presentations and high level subject areas where additional criteria can be developed for the customer to accept the CADE 2 solution that replaces the legacy system.
+
+### Federal Strategy Consultant — Computer Sciences Corporation (October 2012–June 2013)
+Client: United States Agency for International Development
+- Provided support for users switching email services from Microsoft Outlook to Gmail and other Google services to perform their duties more efficiently in the US and around the world in developing countries with limited internet access.
+- Utilized Google Apps Migration for Microsoft Exchange software, Google Active Directory Sync, and Microsoft Exchange and Active Directory to migrate user mailboxes to Gmail seamlessly.
+- Provisioned BlackBerry, iPhone, and iPad devices to be utilized with Gmail and other Google services.
+
+### Federal Strategy Consultant — Computer Sciences Corporation (September 2011–September 2012)
+Client: United States Strategic Command
+- Assisted with upgrade of BMC ITSM suite to 7.6 with business process improvement across many offices to align with ITIL standards, created detailed training plan, and led discussion on security classification guidance.
+- Created framework for the Command to move towards an IT Service Delivery model which impacts organizational structure and how the Command views IT.
+- Presented cloud computing brown bag discussion to clients and contractors.
+
+### Federal Strategy Consultant — Computer Sciences Corporation (December 2009–September 2011)
+Client: Defense Threat Reduction Agency
+- Implemented an Oracle Business Intelligence solution for Human Capital data viewed by senior leadership and users across the Agency.
+- Trained and worked directly with the Human Capital office data providers and Agency end users via hands on demonstrations.
+- Provided support, analysis work, and directly interacted with customers for the Customer Relationship Management initiative and Lean Six Sigma program.
+
+## Skills
+
+- **Leadership & delivery:** Team leadership, coaching and training, cross-functional project planning, stakeholder communication, Microsoft Project
+- **Languages & frameworks:** Java, IBM Assembler (ASM/ALC), Java Server Pages (JSP), Active Server Pages (ASP), C & C++, HTML
+- **Data & infrastructure:** IBM z/OS, Structured Query Language (SQL), Google Apps
+- **Quality & tooling:** Git, GitHub CoPilot, Microsoft Office (including Visio and Project), Unified Modeling Language (UML), IBM Rational Suite, Atlassian Jira & Confluence, BMC Remedy
+- **Software Development Lifecycles:** Waterfall SDLC, Agile SDLC, Scrum
+
+## Education
+
+B.S. Information Sciences and Technology — The Pennsylvania State University (2009)
