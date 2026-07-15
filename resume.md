@@ -53,9 +53,10 @@ Client: Defense Threat Reduction Agency
 
 ## Skills
 
-- **Languages & frameworks:** TypeScript, JavaScript, React, Node.js, Express, GraphQL
-- **Data & infrastructure:** PostgreSQL, Redis, RabbitMQ, AWS (EC2, S3), Docker, OpenAPI, Stripe
-- **Quality & tooling:** Git, GitHub Actions, CI/CD, Jest, Playwright, Datadog, feature flags
+- **Languages & frameworks:** Java, IBM Assembler (ASM/ALC), Java Server Pages (JSP), Active Server Pages (ASP), C & C++, HTML
+- **Data & infrastructure:** IBM z/OS, Structured Query Language (SQL), Google Apps
+- **Quality & tooling:** Git, GitHub CoPilot, Microsoft Office (including Visio and Project), Unified Modeling Language (UML), IBM Rational Suite, Atlassian Jira & Confluence, BMC Remedy
+- **Software Development Lifecycles** Waterfall SDLC, Agile SDLC, Scrum
 
 ## Education
 
