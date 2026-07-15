@@ -1,6 +1,6 @@
 # Richard W Strawhacker
 
-127 Amber Acorn Ave Raleigh, NC 27603 · richard.strawhacker@gmail.com · https://www.linkedin.com/in/richard-strawhacker-004166151/
+127 Amber Acorn Ave Raleigh, NC 27603 · richard.strawhacker@gmail.com · (610)389-9853 · https://www.linkedin.com/in/richard-strawhacker-004166151/
 
 ## Summary
 
