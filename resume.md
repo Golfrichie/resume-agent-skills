@@ -8,16 +8,11 @@ Over 15+ years of experience and leadership in system modernization, system impl
 
 ## Work Experience
 
-### Senior Software Engineer — Example Co (2021–Present)
-
-- Built REST and GraphQL services in Node.js and PostgreSQL for customer account, reporting, and admin workflows used by 2M+ monthly active users.
-- Led the React 18 and TypeScript migration for a core customer dashboard, reducing the bug backlog 30% while keeping weekly releases on schedule.
-- Reworked validation, pagination, and error contracts on high-volume account-management APIs so ambiguous customer states were easier to detect, debug, and resolve.
-- Partnered with design and product to ship accessible onboarding and account-settings flows, reaching WCAG 2.1 AA on core product surfaces.
-- Added Datadog dashboards and alerts for latency, error-rate, and queue-depth trends, giving on-call engineers faster signals for production regressions.
-- Mentored two engineers through design docs, code reviews, and rollout planning for shared platform changes used across product teams.
-
-**Notable work:** Led the account-state modernization project, replacing scattered frontend checks with typed API contracts and feature-flagged rollout paths for plan status, workspace settings, and customer-visible notifications.
+### IT Consulting Manager — Deloitte Consulting LLP (April 2025–Present)
+Client: Internal Revenue Service
+- Led a small team of 3 and worked closely with the Requirements client team to begin modernization efforts focused on the intake process used for new requirements and integration with Jira and Confluence to automatically create stories, tasks, and technical requirements linked together.
+- Reviewed legacy requirements documentation and utilized new tools and AI to redesign and format legacy documentation and assist with creating clear linkages from requirements to individual lines of code for traceability.
+- Updated maintainability artifacts and guidelines to algin with the current code base to assist architects and developers understand key business terminology and how the Java code reflects key outputs that are generated to taxpayers and other end users.
 
 ### Software Engineer — Startup Labs (2018–2021)
 
