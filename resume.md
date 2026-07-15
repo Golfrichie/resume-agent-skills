@@ -4,7 +4,7 @@
 
 ## Summary
 
-Full-stack engineer with 6+ years building SaaS products in TypeScript, React, and Node.js. Shipped customer-facing workflows end-to-end, from accessible UI through backend APIs, with a focus on reliability, maintainability, and clear cross-functional delivery.
+Over 15+ years of experience and leadership in system modernization, system implementation, software development in legacy and modern coding languages, business process improvement and both business and technical analysis. Committed to driving efficiency, innovation, and digital transformation within an organization through effective implementation of technology solutions and strategic process enhancements.
 
 ## Work Experience
 
