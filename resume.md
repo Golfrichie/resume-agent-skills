@@ -4,7 +4,7 @@
 
 ## Summary
 
-Over 15+ years of experience and leadership in system modernization, system implementation, software development in legacy and modern coding languages, business process improvement and both business and technical analysis. Committed to driving efficiency, innovation, and digital transformation within an organization through effective implementation of technology solutions and strategic process enhancements.
+Over 15+ years of experience and leadership in system modernization, system implementation, project management, software development in legacy and modern coding languages, business process improvement and both business and technical analysis. Committed to driving efficiency, innovation, and digital transformation within an organization through effective implementation of technology solutions and strategic process enhancements.
 
 ## Work Experience
 
