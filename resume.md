@@ -13,6 +13,7 @@ Client: Internal Revenue Service
 - Led a small team of 3 and worked closely with the Requirements client team to begin modernization efforts focused on the intake process used for new requirements and integration with Jira and Confluence to automatically create stories, tasks, and technical requirements linked together.
 - Reviewed legacy requirements documentation and utilized new tools and AI to redesign and format legacy documentation and assist with creating clear linkages from requirements to individual lines of code for traceability.
 - Updated maintainability artifacts and guidelines to algin with the current code base to assist architects and developers understand key business terminology and how the Java code reflects key outputs that are generated to taxpayers and other end users.
+- Supported program management scoping discussions, resource alloctaions, and budgeting to ensure my team and others were performing work in scope with what was aligned in the contract and had enough resources to perform the work while not impacting the program's financials.
 - Worked in an Agile methodology using a Kanban board in Jira to track our current activities and delvierables, plan for future deliverables, and document impediments in a dashboard for leadership to have a clear picture of the status of our work and future deliverables.
 
 ### IT Consulting Project Manager — Deloitte Consulting LLP (April 2024–April 2025)
@@ -21,7 +22,8 @@ Client: Internal Revenue Service
 - Broke down 15,000+ lines of IBM Assembler Code into more manageable chunks aligned on what functions the code was preforming, designed UML code flow diagrams in Microsoft Visio to visualize how the legacy code was flowing and linked together, and analyzed the IBM Assembler Code to extract business logic and requirements needed for the modernized system along with key technical implementation details that would inform future architecture decisions.
 - Collaborated with IBM Assembler Code legacy programmers and business stakeholders to validate understanding of complex ALC code, confirm obsolete and dead code no longer needed, and ensure requirements are accurate with what is coded.
 - Worked in an Agile methodology in 2 week sprints using IBM Rational software to track current activities and deliverables and document impediments for leadership to review and understand current status and next steps in the development and modernization effort.
-- Supported and participated in Agile cermonies, including Product Increment Planning and sprint planning, to ensure all work aligned with key deliverables and expectations documented by client leadership
+- Supported and participated in Agile cermonies, including Product Increment Planning and sprint planning, to ensure all work aligned with key deliverables and expectations documented by client leadership.
+- Utilized IBM Rational and GitHub source control for development activities and maintaining code bases as changes were pushed thru a CI/CD pipeline to meet security and performance requirements.
 
 ### IT Consulting Senior Consultant/Project Manager — Deloitte Consulting LLP (June 2016–April 2024)
 Client: Internal Revenue Service
@@ -29,6 +31,7 @@ Client: Internal Revenue Service
 - Broke down 10+ IBM Assembler Code sections and over 25,000 lines of code into more manageable chunks aligned on what functions the code was preforming, designed UML code flow diagrams in Microsoft Visio to visualize how the legacy code was flowing and linked together, and analyzed the IBM Assembler Code to extract business logic and requirements needed for the modernized system along with key technical implementation details that would inform future architecture decisions.
 - Conducted root cause analysis on over 100+ defects identified when the modernized system and legacy system did not match on outputs to determine where the issue was occurring, why it was occurring (i.e. incorrectly coded, incorrect requirement), and provided Java code solutions to development teams to resolve defects.
 - Conducted 3 training sessions to bring government and other contractors up to speed on logic harvesting processes, ALC, and key IRS processes to support logic harvesting and the Customer Account Data Engine 2 (CADE 2) program
+- Supported program management scoping discussions, resource alloctaions, and budgeting to ensure my team and others were performing work in scope with what was aligned in the contract and had enough resources to perform the work while not impacting the program's financials.
 - Worked in an Agile methodology in 2 week sprints using IBM Rational software to track current activities and deliverables and document impediments for leadership to review and understand current status and next steps in the development and modernization effort.
 - Supported and participated in Agile cermonies, including Product Increment Planning and sprint planning, to ensure all work aligned with key deliverables and expectations documented by client leadership
 - Utilized IBM Rational and GitHub source control for development activities and maintaining code bases as changes were pushed thru a CI/CD pipeline to meet security and performance requirements.
@@ -38,18 +41,6 @@ Client: Internal Revenue Service
 - Supported the CFO by providing detailed analysis, guidance, and recommendations to help CADE 2 program determine a path forward in addressing a material weakness in their financial statements. Much of our work helped the IRS downgrade the material weakness to a significant deficiency in their financial statements.
 - Worked closely with CFO, Applications Development, Business Modernization Office, and Project Management Office to plan out projects and technical implementation details on specific areas that would help address the material weakness and modernize legacy components.
 - Worked on the Solution Assurance team supporting the PMO developing presentations and high level subject areas where additional criteria can be developed for the customer to accept the CADE 2 solution that replaces the legacy system.
-
-### Federal Strategy Consultant — Computer Sciences Corporation (October 2012–June 2013)
-Client: United States Agency for International Development
-- Provided support for users switching email services from Microsoft Outlook to Gmail and other Google services to perform their duties more efficiently in the US and around the world in developing countries with limited internet access.
-- Utilized Google Apps Migration for Microsoft Exchange software, Google Active Directory Sync, and Microsoft Exchange and Active Directory to migrate user mailboxes to Gmail seamlessly.
-- Provisioned BlackBerry, iPhone, and iPad devices to be utilized with Gmail and other Google services.
-
-### Federal Strategy Consultant — Computer Sciences Corporation (September 2011–September 2012)
-Client: United States Strategic Command
-- Created framework for the Command to move towards an IT Service Delivery model which impacts organizational structure and how the Command views IT.
-- Assisted with upgrade of BMC ITSM suite to 7.6 with business process improvement across many offices to align with ITIL standards, created detailed training plan, and led discussion on security classification guidance.
-- Presented cloud computing brown bag discussion to clients and contractors.
 
 ## Skills
 
