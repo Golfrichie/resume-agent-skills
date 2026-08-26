@@ -43,7 +43,7 @@ Reframed the resume toward tax application development and support leadership, S
 
 - **Tax application leadership:** Summary, Deloitte IRS bullets (2016–present)
 - **SDLC & delivery tooling:** Summary, Skills (SDLC & collaboration)
-- **Technical review & quality:** Defect analysis bullet; requirements review bullets |
+- **Technical review & quality:** Defect analysis bullet; requirements review bullets
 - **Resource planning:** Scoping/resource/budget bullets (2025–present and 2016–2024)
 - **Training & mentoring:** 3 training sessions bullet
 - **Stakeholder partnership:** Requirements, CFO, Applications Development, BMO, and PMO bullets
