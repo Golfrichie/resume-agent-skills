@@ -52,7 +52,7 @@ Client: Internal Revenue Service
 
 - **Languages & frameworks:** Java, IBM Assembler (ASM/ALC), Java Server Pages (JSP), Active Server Pages (ASP), C & C++, HTML
 - **Data & infrastructure:** IBM z/OS, Structured Query Language (SQL), Google Apps
-- **Quality & tooling:** GitHub, GitHub CoPilot, Microsoft Office (including Visio and Project), Unified Modeling Language (UML), IBM Rational Suite, Atlassian Jira & Confluence, BMC Remedy
+- **Quality & tooling:** GitHub, GitHub CoPilot, Microsoft Office (including Visio and Project), Unified Modeling Language (UML), IBM Rational Suite, Atlassian Jira & Confluence, BMC Remedy, Visual Studio Code, Eclipse
 - **AI Tools:** Claude Haiku, Claude Opus, Claude Sonnet
 - **Software Development Lifecycles:** Waterfall SDLC, Agile SDLC, Scrum, Kanban
 
