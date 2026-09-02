@@ -8,7 +8,13 @@ Over 15+ years of experience and leadership in system modernization, system impl
 
 ## Work Experience
 
-### IT Consulting Project Manager — Deloitte Consulting LLP (April 2025–Present)
+### IT Consulting Project Manager - Deloitte Consulting LLP (May 2026-Present)
+Client: Guardian Life Insurance Company
+- Worked with various AI prompts and skills using Claude models within GitHub CoPilot and Eclipse to conduct automated conversion of legacy programs written in IBM Assembler code to COBOL thru a series of steps to review, validate, and test the converted code to ensure the COBOL program matched the Assembler program logically.
+- Reviewed over 15 legacy IBM Assembler programs to validate call chains to other programs leveraging Claude models and manual analysis to determine if legacy Assembler programs were still active or inactive due to not being called from other programs or logically has no active code.
+- Updated legacy IBM Job Control Language (JCL) files and IBM Procedures (PROC) to test programs that have been converted from IBM Assembler code to COBOL and compare data outputs to validate results or flag defects that need to be addressed for the development team.
+
+### IT Consulting Project Manager — Deloitte Consulting LLP (April 2025–May 2026)
 Client: Internal Revenue Service
 - Led a small team of 3 and worked closely with the Requirements client team to begin modernization efforts focused on the intake process used for new requirements and integration with Jira and Confluence to automatically create stories, tasks, and technical requirements linked together.
 - Reviewed legacy requirements documentation and utilized new tools and AI to redesign and format legacy documentation and assist with creating clear linkages from requirements to individual lines of code for traceability.
