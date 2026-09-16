@@ -48,6 +48,9 @@ Client: Internal Revenue Service
 - Worked closely with CFO, Applications Development, Business Modernization Office, and Project Management Office to plan out projects and technical implementation details on specific areas that would help address the material weakness and modernize legacy components.
 - Worked on the Solution Assurance team supporting the PMO developing presentations and high level subject areas where additional criteria can be developed for the customer to accept the CADE 2 solution that replaces the legacy system.
 
+## Certifications
+- Databricks Fundamentals
+
 ## Skills
 
 - **Languages & frameworks:** Java, IBM Assembler (ASM/ALC), Job Control Language (JCL), Java Server Pages (JSP), Active Server Pages (ASP), C & C++, HTML
